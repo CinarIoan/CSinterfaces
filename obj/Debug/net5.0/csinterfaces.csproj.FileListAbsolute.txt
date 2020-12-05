@@ -1,0 +1,16 @@
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces.deps.json
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces.runtimeconfig.json
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces.runtimeconfig.dev.json
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces.dll
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/ref/csinterfaces.dll
+/home/cinar/Desktop/C#Projects/csinterfaces/bin/Debug/net5.0/csinterfaces.pdb
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.csprojAssemblyReference.cache
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.AssemblyInfoInputs.cache
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.AssemblyInfo.cs
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.csproj.CoreCompileInputs.cache
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.dll
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/ref/csinterfaces.dll
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.pdb
+/home/cinar/Desktop/C#Projects/csinterfaces/obj/Debug/net5.0/csinterfaces.genruntimeconfig.cache
