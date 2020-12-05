@@ -26,9 +26,9 @@ namespace csinterfaces
 
             PowerButtoon powBut = new PowerButtoon(TV);
             powBut.Execute();
-            powBut.Undo();
             TV.VolumeUp();
             TV.VolumeDown();
+            powBut.Undo();
         }
     }
 }
